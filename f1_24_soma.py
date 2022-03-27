@@ -4,7 +4,6 @@ Mostre uma mensagem que informe se a soma de A com B é menor,
 maior ou igual a C.
 ''' 
 
-
 a = int(input('insira o valor de A:\n'))
 b = int(input('insira o valor de B:\n'))
 c = int(input('insira o valor de C:\n'))
