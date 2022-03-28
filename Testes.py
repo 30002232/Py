@@ -8,6 +8,7 @@ print(name.title()) #primeira letra de cada palavra em maiuscula
 print(name.upper()) #toda a string em maiusculas
 print(name.lower()) #toda a string em minusculas
 
+
 first_name = "Ada"
 last_name = "Lovelace"
 print (first_name + " " + last_name) #contatenação de strings
